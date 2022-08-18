@@ -1,4 +1,4 @@
-# Python Cheat Sheet
+# Python Cheat Sheet for Cryptch
 > **Contributions are welcome!**
 # Basics
 
